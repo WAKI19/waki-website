@@ -1,0 +1,106 @@
+body,html {
+  width: 100%;
+  margin: 0;
+}
+body {
+  background-color: #6FC38B;
+}
+.section-title {
+  font-size: 4em;
+  margin-top: 2em;
+  font-family: "orbitron";
+  color: #C94B4B;
+  text-shadow: 1px 1px 4px rgb(87, 87, 87);
+  text-align: center;
+  margin-bottom: 1em;
+  border-bottom: 4px solid #C94B4B;
+  padding: 0.2em 0;
+}
+.services {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+.service {
+  width: 33.3%;
+  box-sizing: border-box;
+  margin: 0 4em;
+  background-color: #fff;
+  border-radius: 10px;
+  padding-bottom: 1em;
+  color:#45584B;
+  margin-bottom: 4.5em;
+  box-shadow: 1px 1px 4px rgb(87, 87, 87);
+}
+.service-name {
+  margin: 0;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgb(77, 77, 77);
+  font-family: "orbitron";
+  margin-bottom: 0.5em;
+  font-size: 1.05em;
+}
+.service-container {
+  width: 95%;
+  margin: 0 auto;
+}
+.service-icon {
+  width: 100%;
+  font-size: 6em;
+  text-align: center;
+  text-shadow: 1px 1px 3px rgb(184, 172, 172);
+}
+.service-price {
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgb(184, 172, 172);
+  font-family: "orbitron";
+  margin-top: 1.5em;
+  font-size: 1.05em;
+}
+.service-content-text {
+  text-shadow: 1px 1px 3px rgb(184, 172, 172);
+  font-family: "orbitron";
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.to-service-detail-area {
+  text-align: center;
+}
+.to-service-detail {
+  color: white;
+  background-color: #C94B4B;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  padding: 0.2em 0.6em;
+  border-radius: 6px;
+  border: 1px solid #C94B4B;
+  transition: 0.6s;
+}
+.to-service-detail:hover {
+  color: #C94B4B;
+  background-color: white;
+}
+.comming-soon {
+  color: white;
+  background-color: #45584B;
+}
+.border {
+  border-bottom: 10px solid #C94B4B;
+  box-shadow: 3px 3px 5px rgb(134, 134, 134);
+}
+footer {
+  background-color: #45584B;
+  padding: 1.5em 3em;
+  margin-top: 10em;
+  box-shadow: -1px -1px 5px rgb(134, 134, 134);
+}
+.footer-logo {
+  margin: 0;
+  font-family: "orbitron";
+  color: #C94B4B;
+  text-shadow: 1px 1px 3px rgb(109, 109, 109);
+}
+.footer-logo-waki {
+  color: #fff;
+}

@@ -1,0 +1,92 @@
+body,html {
+  width: 100%;
+  margin: 0;
+}
+body {
+  background-color: #6FC38B;
+}
+.page-title {
+  font-size: 4.5em;
+  font-family: "orbitron";
+  margin-top: 0.5em;
+  color: #C94B4B;
+  background-color: #fff;
+  text-shadow: 1px 1px 3px rgb(184, 172, 172);
+  box-shadow: 2px 2px 5px rgb(134, 134, 134);
+  text-align: center;
+  margin-bottom: 0;
+}
+.current-page {
+  display: flex;
+  align-items: center;
+  margin-top: 0.7em;
+  margin-left: 1em;
+  text-shadow: 1px 1px 3px rgb(87, 87, 87);
+  margin-bottom: 5em;
+  font-family: "orbitron";
+}
+.current-page img {
+  height: 1.7em;
+  width: auto;
+  border-radius: 50%;
+  border: 1px solid #fff;
+}
+.page-nav {
+  font-weight: bold;
+  font-size: 1.3em;
+  margin: 0;
+  margin-left: 0.3em;
+  color: #45584B;
+}
+.page-nav-link {
+  color: #0008E2;
+}
+.section-title {
+  font-size: 4em;
+  margin-top: 2em;
+  font-family: "orbitron";
+  color: #C94B4B;
+  text-shadow: 1px 1px 4px rgb(87, 87, 87);
+  text-align: center;
+  margin-bottom: 1em;
+  border-bottom: 4px solid #C94B4B;
+  padding: 0.2em 0;
+}
+footer {
+  background-color: #45584B;
+  padding: 1.5em 3em;
+  margin-top: 10em;
+  box-shadow: -1px -1px 5px rgb(134, 134, 134);
+}
+.footer-logo {
+  margin: 0;
+  font-family: "orbitron";
+  color: #C94B4B;
+  text-shadow: 1px 1px 3px rgb(109, 109, 109);
+}
+.footer-logo-waki {
+  color: #fff;
+}
+.portfolios {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.portfolio {
+  width: 33%;
+  box-sizing: border-box;
+  padding: 0 2.5em;
+  text-align: center;
+}
+.portfolio-image {
+  width: 100%;
+  border: 1px solid #393939;
+}
+.portfolio-name {
+  font-weight: bold;
+  color: #393939;
+  margin: 0;
+  margin-top: 0.2em;
+  font-size: 1.1em;
+}
