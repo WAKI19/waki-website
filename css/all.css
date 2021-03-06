@@ -33,7 +33,6 @@
 }
 .main-menu-heading {
   color: #393939;
-  font-family: "orbitron";
   margin: 0;
   margin-left: 0.8em;
 }
@@ -56,7 +55,6 @@
   margin-left: 1em;
   text-shadow: 1px 1px 3px rgb(87, 87, 87);
   margin-bottom: 5em;
-  font-family: "orbitron";
 }
 .current-page img {
   height: 1.7em;
@@ -76,7 +74,6 @@
 }
 .page-title {
   font-size: 4.5em;
-  font-family: "orbitron";
   margin-top: 0.5em;
   color: #C94B4B;
   background-color: #fff;
@@ -84,4 +81,9 @@
   box-shadow: 2px 2px 5px rgb(134, 134, 134);
   text-align: center;
   margin-bottom: 0;
+  font-family: 'Bungee', cursive;
+  padding: 0.15em 0;
+}
+.section-title {
+  font-family: 'Bungee', cursive;
 }

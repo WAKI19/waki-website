@@ -1,0 +1,28 @@
+body,html {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(41, 41, 41);
+    margin: 0;
+}
+main {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+h1 {
+    color: #fff;
+    margin: 0;
+    font-size: 5em;
+    font-family: 'Bungee', cursive;
+    margin-bottom: 30px;
+}
+a {
+    color: white;
+    background-color: #C94B4B;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 2em;
+    border-radius: 10px;
+}

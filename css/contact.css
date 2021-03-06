@@ -12,7 +12,6 @@ body {
   margin-left: 1em;
   text-shadow: 1px 1px 3px rgb(87, 87, 87);
   margin-bottom: 5em;
-  font-family: "orbitron";
 }
 .current-page img {
   height: 1.7em;
@@ -32,7 +31,6 @@ body {
 }
 .page-title {
   font-size: 4.5em;
-  font-family: "orbitron";
   margin-top: 0.5em;
   color: #C94B4B;
   background-color: #fff;
@@ -44,7 +42,6 @@ body {
 .section-title {
   font-size: 4em;
   margin-top: 2em;
-  font-family: "orbitron";
   color: #C94B4B;
   text-shadow: 1px 1px 4px rgb(87, 87, 87);
   text-align: center;
@@ -56,12 +53,12 @@ body {
   margin: 0;
   line-height: 1em;
   font-weight: bold;
-  color: #393939;
+  color: #4d4d4d;
 }
 .contact-form {
   width: 40%;
   margin: 0 auto;
-  text-shadow: 1px 1px 4px rgb(87, 87, 87);
+  text-shadow: 1px 1px 4px rgb(201, 201, 201);
 }
 .contact-form .input {
   width: 100%;
@@ -91,7 +88,6 @@ body {
   padding: 0.2em 0.6em;
   border-radius: 6px;
   border: none;
-  font-family: "orbitron";
   font-size: 1.1em;
   box-shadow: 1px 1px 4px rgb(87, 87, 87);
 }
@@ -103,7 +99,6 @@ footer {
 }
 .footer-logo {
   margin: 0;
-  font-family: "orbitron";
   color: #C94B4B;
   text-shadow: 1px 1px 3px rgb(109, 109, 109);
 }

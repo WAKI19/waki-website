@@ -12,7 +12,6 @@ body {
   margin-left: 1em;
   text-shadow: 1px 1px 3px rgb(87, 87, 87);
   margin-bottom: 5em;
-  font-family: "orbitron";
 }
 .current-page img {
   height: 1.7em;
@@ -30,21 +29,9 @@ body {
 .page-nav-link {
   color: #0008E2;
 }
-.page-title {
-  font-size: 4.5em;
-  font-family: "orbitron";
-  margin-top: 0.5em;
-  color: #C94B4B;
-  background-color: #fff;
-  text-shadow: 1px 1px 3px rgb(184, 172, 172);
-  box-shadow: 2px 2px 5px rgb(134, 134, 134);
-  text-align: center;
-  margin-bottom: 0;
-}
 .section-title {
   font-size: 4em;
   margin-top: 2em;
-  font-family: "orbitron";
   color: #C94B4B;
   text-shadow: 1px 1px 4px rgb(87, 87, 87);
   text-align: center;
@@ -114,6 +101,7 @@ body {
   display: block;
   font-weight: bold;
   color: #fff;
+  padding: 15px 0;
 }
 .history-icon {
   color: #C94B4B;
@@ -130,7 +118,6 @@ footer {
 }
 .footer-logo {
   margin: 0;
-  font-family: "orbitron";
   color: #C94B4B;
   text-shadow: 1px 1px 3px rgb(109, 109, 109);
 }
